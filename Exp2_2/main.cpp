@@ -6,7 +6,7 @@ using namespace std;
 class Student_Shallow {
 private:
     int sno;
-    char name[20];
+    char name[20]{};
     char sex;
 
 public:

@@ -32,7 +32,7 @@ private:
 
 public:
     Circle(float, float, float);
-    void show();
+    void show() override;
     float area();
 };
 

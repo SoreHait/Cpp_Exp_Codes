@@ -4,8 +4,8 @@ using namespace std;
 
 class FDAccount {
 private:
-    char account[30];
-    char acname[30];
+    char account[30]{};
+    char acname[30]{};
     float balance;
     int due;
     float rate;
