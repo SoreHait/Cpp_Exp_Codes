@@ -3,4 +3,4 @@ project(Exp1_1)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Exp1 main.cpp)
+add_executable(Exp1_1 main.cpp)
