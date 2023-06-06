@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
+#include <algorithm>
 #define ARR_LEN 5
 using namespace std;
 
